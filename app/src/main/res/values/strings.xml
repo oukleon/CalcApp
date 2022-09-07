@@ -16,4 +16,6 @@
     <string name="_0">0</string>
     <string name="Multiply">*</string>
     <string name="Equal">=</string>
+    <string name="CalcText">0</string>
+    <string name="Dot">.</string>
 </resources>
